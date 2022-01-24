@@ -47,7 +47,7 @@ def menu():
   ░░████░████    █████ ████ █████░░██████    ░░████████░░████████░░██████  ██████ 
    ░░░░ ░░░░    ░░░░░ ░░░░ ░░░░░  ░░░░░░      ░░░░░░░░  ░░░░░░░░  ░░░░░░  ░░░░░░  \n""" + color.blue + """
          ----[    This code write by (Nothing Hidden)   ]---
-        -------[ """ + color.blue +  barışın Koruyucuları """ ]-----------""" + color.End)
+        -------[   barışın Koruyucuları  ]-----------""" + color.End)
     host = input("\nEnter Host: ")
     time.sleep(1)
     port = int(input("\nEnter Target port: "))
